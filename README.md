@@ -1,6 +1,6 @@
 # LorenzAttractor
 
-The famous [Lorenz Attractor](https://en.wikipedia.org/wiki/Lorenz_system), implemented in P5JS.
+An interactive version of the famous [Lorenz Attractor](https://en.wikipedia.org/wiki/Lorenz_system), implemented in P5JS.
 
 ![Lorenz Attractor](https://raw.githubusercontent.com/johnnyawesome/LorenzAttractor/main/LorenzAttractor/DemoImages/LorenzAttractor.gif)
 
