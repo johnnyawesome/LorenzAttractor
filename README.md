@@ -11,7 +11,7 @@ The Lorenz Attractor is the most famous strange Attractor. Discovered in 1963 by
 This particular implementation written in P5JS.
 
 What is special about my interactive implementation of the Lorenz Attractor, is that you can easily control the Time-Delta via a Slider.
-You can increase and decrease *dx* by simply moving the slider, which will result in different "butterfly"-shapes as a result.
+You can increase and decrease the *dx* value in [this formula](https://en.wikipedia.org/wiki/Lorenz_system#Overview) by simply moving the slider, which will result in different "butterfly"-shapes as a result.
 
 
 
