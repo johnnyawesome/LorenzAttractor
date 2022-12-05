@@ -15,7 +15,7 @@ You can increase and decrease the *dt* value in [this formula](https://en.wikipe
 
 ## NEW PEasy Cam Support!
 
-In the folder[LorenzAttractorPEasyCam](https://github.com/johnnyawesome/LorenzAttractor/tree/main/LorenzAttractorPEasyCam) you can find an even more interactive implementation of the Lorenz Attractor! Control the camera with your mouse! Move, Rotate and Zoom in on the 🦋 Butterfly 🦋!
+In the folder [LorenzAttractorPEasyCam](https://github.com/johnnyawesome/LorenzAttractor/tree/main/LorenzAttractorPEasyCam) you can find an even more interactive implementation of the Lorenz Attractor! Control the camera with your mouse! Move, Rotate and Zoom in on the 🦋 Butterfly 🦋!
 
 ![Lorenz AttractorPEasyCam](https://raw.githubusercontent.com/johnnyawesome/LorenzAttractor/main/LorenzAttractor/DemoImages/LorenzAttractorPeasyCam.gif)
 
